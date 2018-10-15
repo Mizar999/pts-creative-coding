@@ -1,0 +1,1 @@
+console.log("Parcel ist sehr schnell");

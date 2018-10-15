@@ -1,0 +1,18 @@
+{
+  "name": "creative_coding_pts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pts": "^0.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  }
+}
